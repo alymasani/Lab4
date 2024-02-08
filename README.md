@@ -11,6 +11,6 @@
 
 ## Screenshots
 ### Exercise B
-![Exercise B final output](URL)
+![Exercise B final output](https://github.com/alymasani/Lab4.git/EXercise_B.gif)
 ### Exercise C
-![Exercise C final output](URL)
+![Exercise C final output](https://github.com/alymasani/Lab4.git/ExerciseC.gif)
